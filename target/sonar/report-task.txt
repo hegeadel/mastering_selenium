@@ -1,0 +1,5 @@
+projectKey=chapter3_9_1:chapter3_9_1
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/chapter3_9_1:chapter3_9_1
+ceTaskId=AVQKPl_jVSLxIgJAvDEe
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVQKPl_jVSLxIgJAvDEe

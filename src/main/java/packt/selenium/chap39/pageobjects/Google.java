@@ -18,7 +18,7 @@ public class Google {
         baseURL = "http://www.google.hu/";
         driver.get(baseURL + "?gfe_rd=cr&ei=OrkMV-_6Fs_R8gfF04HICg&gws_rd=ssl");
 
-        if (!"Google-Abc".equals(driver.getTitle())) {
+        if (!"Google".equals(driver.getTitle())) {
             throw new WrongPageException("Incorrect page for Google");
         }
     }
